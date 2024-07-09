@@ -1,0 +1,20 @@
+-> Primeiro Passo: Configuração
+
+-> Inicializando Repositório
+git init
+
+-> Adicionar arquivos **sempre precisa utilizar**
+git add .
+git commit -m "First Commit"
+
+-> Adicionar Repositório Remoto
+ git remote add origin
+
+-> Enviar para o Repositório Remoto
+ git push -u origin main https://github.com/Anaclaragti/projeto_github.git
+
+
+Sempre seguir os 3 comandos:
+git add . 
+git commit -m
+git push
